@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0s;
+}
+/* body {
+  background-color: burlywood;
+} */
+.container {
+  background-color: bisque;
+  margin: 50px; /*? 4 tarafa 50px bosluk birakir*/
+  margin: 10px 30px; /*? ust-alt:10, sag-sol:30px */
+}
+
+.div {
+  background-color: blueviolet;
+  /* height: 30px; */
+  width: 100px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
